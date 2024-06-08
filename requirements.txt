@@ -3,5 +3,4 @@ uvicorn
 torch
 ultralytics
 pydantic
-torch.nn
 pyngrok
